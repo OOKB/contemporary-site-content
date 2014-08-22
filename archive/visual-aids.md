@@ -1,6 +1,6 @@
 ---
 title: "Visual Aids"
-curator:
+curators:
   - "George Ciscle"
   - "Lisa Corrin"
 site: "The former Famous Ballroom building at 1717 North Charles Street, Baltimore, MD"
