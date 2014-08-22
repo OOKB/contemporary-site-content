@@ -1,5 +1,7 @@
 ---
 title: "Visual Aids"
+opening-date: 1990-12-01
+closing-date: 1990-12-22
 curators:
   - "George Ciscle"
   - "Lisa Corrin"
