@@ -16,7 +16,7 @@ artists:
   - "Stephen John Phillips"
   - "Josef Schützenhöfer"
   - "Joyce J. Scott"
-curator: "George Ciscle"
+curators: "George Ciscle"
 organization: "Presented in conjunction with Artscape ’90, with support from the Mayor’s Advisory Council on Art and Culture"
 exhibition-tour:
   - "Arlington Arts Center, Arlington VA"
